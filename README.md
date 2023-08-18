@@ -57,6 +57,7 @@ origin  ->  remote repository name
 | `git push` | Push changes to remote repository (remembered branch) |
 | `git pull` | Update local repository to the newest commit |
 | `git pull origin [branch name]` | Pull changes from remote repository |
+| `git remote -v` | view the list of remote repositories |
 | `git remote set-url origin [new remote URL]` | change remote repository URL |
 | `git remote add origin ssh://git@github.com/[username]/[repository-name].git` | Add a remote repository |
 | `git remote set-url origin ssh://git@github.com/[username]/[repository-name].git` | Set a repository's origin branch to SSH |
