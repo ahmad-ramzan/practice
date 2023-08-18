@@ -1,0 +1,2 @@
+this file is text2.txt
+this is practice file.
