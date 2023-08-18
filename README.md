@@ -5,6 +5,8 @@ git config --global user.name "[name]"
 
 git config --global user.email "[email@gmail.com]"
 
+git config --global credential.username "ahmad-ramzan"
+
 #### working directory
 
 staging area     ->  where git can track
