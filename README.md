@@ -14,6 +14,7 @@ local repository  ->  machine folder
 remote repository  ->  online folder
 
 origin  ->  remote repository name
+
 https://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@github.com/ahmad-ramzan/practice.git
 
 ### Getting & Creating Projects
