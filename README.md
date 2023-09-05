@@ -24,6 +24,7 @@ origin  ->  remote repository name
 | Command | Description |
 | ------- | ----------- |
 | `git init` | Initialize a local Git repository |
+| `rm -rf .git` | remove a local Git repository |
 | `git clone ssh://git@github.com/[username]/[repository-name].git` | Create a local copy of a remote repository |
 
 ### Basic Snapshotting
