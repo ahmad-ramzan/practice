@@ -73,3 +73,6 @@ origin  ->  remote repository name
 | `git log --oneline` | View changes (briefly) |
 | `git diff [source branch] [target branch]` | Preview changes before merging |
 | `.gitignore` | make file in local and push to hide some file that are write down in gitignore|
+
+
+![working image](git.png)
